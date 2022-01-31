@@ -3,6 +3,10 @@ Playing around with embedded rust
 
 # Installation - Windows 10
 
+## Setting up Rust Enviroment
+
+https://docs.microsoft.com/en-us/windows/dev-environment/rust/setup
+
 ## Setting up debugging
 
 Install gcc-arm-none-eabi (Tested with 10.3-2021.10)
